@@ -35,6 +35,8 @@ To get a local copy up and running follow these simple example steps.
 👤 **Luis Angel Maldonado**
 
 - Github: [@lmaldonadoch](https://github.com/lmaldonadoch)
+- Linkedin: [Luis Angel Maldonado](https://www.linkedin.com/in/luis-angel-maldonado-5b503a1a3/)
+- Twitter: [@LuisAngelMCh](https://twitter.com/LuisAngelMCh)
 
 ## 🤝 Contributing
 
@@ -49,3 +51,4 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - This project is based in a project by [The Oddin Project](https://www.theodinproject.com)
+- the pSBC function that adds the functionality to make the previously colored cell darker was taken from this [GitHub repo](https://github.com/santimc/Etch-a-Sketch/blob/master/style.css)
